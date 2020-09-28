@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=qubvel" alt="qubvel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubvel" alt="qubvel" /> </p>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
